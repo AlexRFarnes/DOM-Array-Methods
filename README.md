@@ -18,9 +18,9 @@ Practice five of the must common array methods .forEach(), .sort(), .map(), .fil
 
 ## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/57517804/114125859-da4b2a00-9929-11eb-9b6d-8f2fa8558667.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/114343426-6ced0280-9b90-11eb-9433-4be0efe46fd8.png)
 
-[Demo](https://nostalgic-agnesi-e12c2a.netlify.app/)
+[Demo](https://infallible-archimedes-96237c.netlify.app)
 
 ## Built With
 
